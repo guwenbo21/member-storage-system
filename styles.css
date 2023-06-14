@@ -1,0 +1,16 @@
+#membership {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
+
+#membership button {
+    padding: 10px 20px;
+}
+
+#membership p {
+    margin-top: 20px;
+}
